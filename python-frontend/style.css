@@ -1,0 +1,38 @@
+.pieChartConatiner,
+.trendCharContainer {
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+    width: 1000px;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 3rem;
+}
+
+.trendCharContainer {
+    position: relative;
+
+}
+
+.form-control {
+    top: -10%;
+    position: absolute;
+    left:0;
+    border: 1px solid black;
+
+}
+
+    #pieChart1{
+        width:1000px !important;
+        position: relative;
+        top: 0px;
+        height: 600px !important;
+        right: 30px !important;    
+    } 
+
+    #lineChart1{    
+        width:700px;
+        position: relative;
+        top: 100px !important;
+        margin-top: 30px;
+    } 

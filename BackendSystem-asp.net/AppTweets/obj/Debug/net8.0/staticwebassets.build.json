@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dkbe5NWzneY35NdqHKcayGAuXDTTaOamv1+ZES5PGgU=",
+  "Source": "AppTweets",
+  "BasePath": "_content/AppTweets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
